@@ -12,7 +12,7 @@ This repository contains two solutions one is source and another is destination.
 5. [RabbitMQ](https://www.rabbitmq.com/install-windows.html#downloads)
 6. Visual Studio (Good to have)
 
-# Architecture of these repos
+# Architecture of these solutions
 These projects are being utilized by both solutions and should be in same location as in the repository.
 1. RabbitMQ.Source.DbMigrator
 2. RabbitMQ.Source.Domain
