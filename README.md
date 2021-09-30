@@ -40,6 +40,6 @@ Additional resources
 1. [Abp.io](https://abp.io/)
 2. [Abp.io docs](https://docs.abp.io)
 3. [Abp.io RabbitMQ integration 1](https://docs.abp.io/en/abp/latest/Background-Jobs-RabbitMq)
-4. [Abp.io RabbitMQ integration 1](https://docs.abp.io/en/abp/latest/Distributed-Event-Bus-RabbitMQ-Integration)
+4. [Abp.io RabbitMQ integration 2](https://docs.abp.io/en/abp/latest/Distributed-Event-Bus-RabbitMQ-Integration)
 5. [Local Event Bus](https://docs.abp.io/en/abp/latest/Local-Event-Bus)
 6. [Distributed Event Bus](https://docs.abp.io/en/abp/latest/Distributed-Event-Bus)
